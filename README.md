@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/Mathematics-Expert-FF6B6B?style=for-the-badge&logo=wolfram&logoColor=white" alt="Mathematics"/>
 </p>
 
----
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<p align="right">
+  <img alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+</p>
 
 # 🎓 Academic Profile & Introduction
 Welcome to my GitHub profile! I'm **@Ahmedouyahya**, a passionate computer science researcher and developer with a strong foundation in mathematics and computer science. With a Bachelor's degree in Math and Computer Science and currently pursuing my Master's degree in Computer Science, I bridge the gap between theoretical knowledge and practical applications.
@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm **@Ahmedouyahya**, a passionate computer scien
 - 💻 **Algorithm Design** – Optimization and complexity analysis
 
 ---
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmedouyahya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -36,7 +35,6 @@ Welcome to my GitHub profile! I'm **@Ahmedouyahya**, a passionate computer scien
 </p>
 
 ---
-
 ## 🗓️ Highlights Timeline
 
 ### 🎓 Education
@@ -53,37 +51,24 @@ Welcome to my GitHub profile! I'm **@Ahmedouyahya**, a passionate computer scien
 - 🧩 Algorithmic Challenges — Focused on correctness proofs and complexity reduction
 - 🗣️ Seminars/Reading Groups — Presented and discussed recent CS/math papers
 
-> Badges:  
-> <img src="https://img.shields.io/badge/Algorithm%20Design-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Mathematical%20Modeling-0E76A8?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/Open%20Source-2F81F7?style=flat-square"/>
-
 ---
-
 ## 💬 Quote Carousel (static rotation)
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Fun code joke"/>
+  <img alt="Fun code joke" src="https://camo.githubusercontent.com/1f5bf413614aafe8dac5e95bf1b545218fc2f1d2064e01bedb18cc234b097c49/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f7468656d653d626c75656265727279"/>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/%22The%20best%20way%20to%20learn%20math%20is%20to%20do%20math.%22-George%20Polya-2F81F7?style=for-the-badge" alt="Polya Quote"/>
-  <img src="https://img.shields.io/badge/%22In%20theory%2C%20theory%20and%20practice%20are%20the%20same.%20In%20practice%2C%20they're%20not.%22-Albert%20Einstein-FF6B6B?style=for-the-badge" alt="Einstein Quote"/>
-  <img src="https://img.shields.io/badge/%22Simplicity%20is%20the%20soul%20of%20efficiency.%22-Austin%20Freeman-0E76A8?style=for-the-badge" alt="Simplicity Quote"/>
+  <img alt="Polya Quote" src="https://camo.githubusercontent.com/9a67fba87eeaed49f3b380038a44bf5e4d253548785e9b533421424542ee36f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25323254686525323062657374253230776179253230746f2532306c6561726e2532306d6174682532306973253230746f253230646f2532306d6174682e2532322d47656f726765253230506f6c79612d3246383146373f7374796c653d666f722d7468652d6261646765"/>
+  <img alt="Einstein Quote" src="https://camo.githubusercontent.com/cda980757732de95b3142c9a29a04162e6b2453fa38184311b7116063be3ded8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f253232496e2532307468656f72792532432532307468656f7279253230616e64253230707261637469636525323061726525323074686525323073616d652e253230496e2532307072616374696365253243253230746865792772652532306e6f742e2532322d416c6265727425323045696e737465696e2d4646364236423f7374796c653d666f722d7468652d6261646765"/>
+  <img alt="Simplicity Quote" src="https://camo.githubusercontent.com/dd6d62776db3aed2ed3e40de99509627ea88d026a7b82f98c79b6436e8153094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25323253696d706c69636974792532306973253230746865253230736f756c2532306f66253230656666696369656e63792e2532322d41757374696e253230467265656d616e2d3045373641383f7374796c653d666f722d7468652d6261646765"/>
 </p>
 
 ---
-
 ## 🌟 Open-Source, Teaching, and Mentoring
 - 📦 I contribute to open-source projects in scientific computing and ML tooling
 - 👨‍🏫 I enjoy mentoring students in algorithms, Python, and research methodology
 - 🧰 Typical stack: Python • NumPy • Pandas • Matplotlib • SciPy • Jupyter • Scikit-learn • PyTorch • TensorFlow • React • Node.js • Django • PostgreSQL • MongoDB • Docker • AWS/GCP
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Teaching-Mentoring-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open--Source-Contributor-2F81F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scientific%20Computing-Libraries-0E76A8?style=for-the-badge"/>
-</p>
-
 ---
-
 ## 🔗 Links
 - 🔬 Google Scholar / Papers: [Add your profile or paper links here]
 - 📝 Blog: [Add blog link]
@@ -91,13 +76,12 @@ Welcome to my GitHub profile! I'm **@Ahmedouyahya**, a passionate computer scien
 - 💌 Contact: Open to research collaboration and academic projects — feel free to reach out!
 
 ---
-
 ## 🧰 Technical Arsenal
 
 ### 🚀 Programming Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white"/>
@@ -141,7 +125,6 @@ Welcome to my GitHub profile! I'm **@Ahmedouyahya**, a passionate computer scien
 </p>
 
 ---
-
 ## 🏆 Academic & Professional Achievements
 - 🎓 Bachelor's Degree in Mathematics and Computer Science
 - 📚 Current Master's Student and active researcher in Computer Science
@@ -149,13 +132,29 @@ Welcome to my GitHub profile! I'm **@Ahmedouyahya**, a passionate computer scien
 - 🌟 Built and deployed full-stack apps with mathematical foundations
 - 🤝 Active contributor to open-source and academic projects
 - 💡 Bridging theoretical mathematics and practical software development
+- 🏁 Competitions experience across ML, algorithms, and hackathons — learned tons, stayed humble, kept building 😊
+- 🌍 Broad experience across research, engineering, and teaching — still curious and learning
 
 ---
+## 🎯 Goals
+- Lots of ideas and achievements in mind — shipping steadily, learning relentlessly 🚀
+- Open, future-focused attitude: explore widely, collaborate thoughtfully, build things that last
 
+---
+## 🧠 Hobbies & Personality
+- I love ideas, problem‑solving, and building things (sometimes just to see if I can 😄)
+- Math, science, and learning new fields — rabbit holes welcome 🕳️🐇
+- Writing, reading, and the occasional drawing/sketch ✍️📚✏️
+- Games, literature, and history buffs unite 🎮📖🏛️
+- Football fan and also a fan of relaxing — balance is secretly an algorithm ⚽🧘
+- INTP for now — subject to Bayesian updates 🤓🧠
+
+---
 ## 🤝 Collaboration & Interests
-- Open to: research collaborations, academic projects, open-source contributions, mentoring
+- Open to research collabs and balanced freelance projects — thoughtful scope, friendly vibes
 - Interests: computational mathematics, algorithm design, ML theory, scientific computing
 
-> "The best way to learn mathematics is to do mathematics, and the best way to do mathematics is to solve problems." – Inspired by George Pólya
+>
+"The best way to learn mathematics is to do mathematics, and the best way to do mathematics is to solve problems." – Inspired by George Pólya
 
 Thanks for visiting! Don't forget to ⭐ repositories you find interesting, especially those bridging mathematics and computer science!
