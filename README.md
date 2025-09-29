@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=2F81F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ahmed+Ouyahya+%F0%9F%91%8B;Computer+Science+Researcher+%E2%80%A2+Developer;Mathematical+Modeling+%7C+Algorithm+Design;Bridging+Theory+and+Practice" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=2F81F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ahmedou+Yahye+%F0%9F%91%8B;Computer+Science+Researcher+%E2%80%A2+Developer;Mathematical+Modeling+%7C+Algorithm+Design;Bridging+Theory+and+Practice" alt="Typing SVG"/>
 </p>
 
 <p align="center">
